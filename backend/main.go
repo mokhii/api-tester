@@ -1,6 +1,6 @@
 package main
 
-import "api-tester/cmd"
+import "api-tester/backend/cmd"
 
 func main() {
 	cmd.Execute()
